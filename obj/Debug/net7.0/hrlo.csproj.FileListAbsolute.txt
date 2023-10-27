@@ -1,0 +1,14 @@
+C:\Users\Victus\Desktop\hrlo\bin\Debug\net7.0\hrlo.exe
+C:\Users\Victus\Desktop\hrlo\bin\Debug\net7.0\hrlo.deps.json
+C:\Users\Victus\Desktop\hrlo\bin\Debug\net7.0\hrlo.runtimeconfig.json
+C:\Users\Victus\Desktop\hrlo\bin\Debug\net7.0\hrlo.dll
+C:\Users\Victus\Desktop\hrlo\bin\Debug\net7.0\hrlo.pdb
+C:\Users\Victus\Desktop\hrlo\obj\Debug\net7.0\hrlo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Victus\Desktop\hrlo\obj\Debug\net7.0\hrlo.AssemblyInfoInputs.cache
+C:\Users\Victus\Desktop\hrlo\obj\Debug\net7.0\hrlo.AssemblyInfo.cs
+C:\Users\Victus\Desktop\hrlo\obj\Debug\net7.0\hrlo.csproj.CoreCompileInputs.cache
+C:\Users\Victus\Desktop\hrlo\obj\Debug\net7.0\hrlo.dll
+C:\Users\Victus\Desktop\hrlo\obj\Debug\net7.0\refint\hrlo.dll
+C:\Users\Victus\Desktop\hrlo\obj\Debug\net7.0\hrlo.pdb
+C:\Users\Victus\Desktop\hrlo\obj\Debug\net7.0\hrlo.genruntimeconfig.cache
+C:\Users\Victus\Desktop\hrlo\obj\Debug\net7.0\ref\hrlo.dll
